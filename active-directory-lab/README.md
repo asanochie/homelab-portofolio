@@ -30,31 +30,31 @@ To deploy a Windows Active Directory environment and perform common HelpDesk adm
 ## Screenshots 
 ### Active Directory Structure
 
-![Active Directory Structure](screenshots/ad-structure.png)
+![Active Directory Structure](Screenshots/ad-structure.png)
 
 ### HR Users and Groups
 
-![HR Users and Groups](screenshots/hr-users-and-groups.png)
+![HR Users and Groups](Screenshots/hr-users-and-groups.png)
 
 ### Finance Users and Groups
 
-![Finance Users and Groups](screenshots/finance-users-and-groups.png)
+![Finance Users and Groups](Screenshots/finance-users-and-groups.png)
 
 ### IT Users and Groups
 
-![IT Users and Groups](screenshots/it-users-and-groups.png)
+![IT Users and Groups](Screenshots/it-users-and-groups.png)
 
 ### User Group Membership
 
-![User Group Membership](screenshots/user-group-membership.png)
+![User Group Membership](Screenshots/user-group-membership.png)
 
 ### Domain Joined Client
 
-![Domain Joined Client](screenshots/domain-joined-client.png)
+![Domain Joined Client](Screenshots/domain-joined-client.png)
 
 ### Domain User Login
 
-![Domain User Login](screenshots/domain-user-login.png)
+![Domain User Login](Screenshots/domain-user-login.png)
 ## Lessons Learned 
 - Active Directory relies heavily on DNS 
 - Domain-joined devices must use the Domain Controller as their DNS server 
