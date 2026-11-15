@@ -5,7 +5,6 @@
 - File Share & Permissions Lab
 - DNS & DHCP Lab
 - Windows Troubleshooting Lab 
-- Service Desk Ticket Simulations 
 
 ## Current Certifications ##
 - Cisco CCNA (In Progress)
