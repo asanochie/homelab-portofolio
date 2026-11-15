@@ -1,13 +1,17 @@
-# IT Homelab Portofolio ##
+# IT Homelab Portofolio
+Hands-on infrastructure and networking projects built using VMware, Windows Server 2022, Active Directory, DNS, DHCP and Windows 11.
 
-## Projects ##
+## Projects
+
 - Active Directory Home Lab
 - File Share & Permissions Lab
 - DNS & DHCP Lab
-- Windows Troubleshooting Lab 
+- Windows Troubleshooting Lab
 
-## Current Certifications ##
-- Cisco CCNA (In Progress)
+## Current Certifications
 
-## Goal ##
-To develop hands-on IT support, Active Directory, networking and troubleshooting skills for Help Desk and IT Technician roles.
+- Cisco CCNA (Candidate)
+
+## Goal
+
+To develop practical networking, infrastructure and troubleshooting skills for Network Engineering and Infrastructure roles.
