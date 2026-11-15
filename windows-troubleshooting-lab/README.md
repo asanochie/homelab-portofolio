@@ -87,7 +87,7 @@ Enable-ADAccount -Identity "sjohnson"
 
 #### Evidence
 
-![Disabled Account](/screenshots/ad-disabled-account.png)
+![Disabled Account](screenshots/ad-disabled-account.png)
 
 ---
 
@@ -111,7 +111,7 @@ Recreated the fileserver DNS A record.
 
 #### Evidence
 
-![Missing DNS Record](/screenshots/dns-record-missing.png)
+![Missing DNS Record](screenshots/dns-record-missing.png)
 
 ---
 
@@ -135,7 +135,7 @@ Removed the incorrect record and recreated it with the correct IP address.
 
 #### Evidence
 
-![DNS Record Repair](/screenshots/dns-record-repair.png)
+![DNS Record Repair](screenshots/dns-record-repair.png)
 
 ---
 
@@ -159,7 +159,7 @@ Removed the user from `Finance_Users` and added them to `HR_Users`.
 
 #### Evidence
 
-![Incorrect Group Membership](/screenshots/group-membership-incorrect.png)
+![Incorrect Group Membership](screenshots/group-membership-incorrect.png)
 
 ---
 
@@ -183,7 +183,7 @@ Restored Change permissions for `HR_Users`.
 
 #### Evidence
 
-![Share Permission Removed](/screenshots/share-permission-removed.png)
+![Share Permission Removed](screenshots/share-permission-removed.png)
 
 ---
 
@@ -207,7 +207,7 @@ Removed the Deny permission.
 
 #### Evidence
 
-![SMB Deny Permission](/screenshots/smb-deny-permission-removal.png)
+![SMB Deny Permission](screenshots/smb-deny-permission-removal.png)
 
 ---
 
@@ -230,7 +230,7 @@ Reactivated the DHCP scope.
 
 #### Evidence
 
-![DHCP Scope Disabled](/screenshots/dhcp-scope-inactive.png)
+![DHCP Scope Disabled](screenshots/dhcp-scope-inactive.png)
 
 ---
 
